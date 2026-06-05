@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.trae/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 输出文件（可选提交）
+backend/output/*.json
+backend/output/*.jpg
+
+# 环境配置
+.env

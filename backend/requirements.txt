@@ -1,0 +1,19 @@
+# OCR 和图像处理
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pdf2image>=1.16.3
+opencv-python>=4.8.0
+
+# 文档解析
+PyMuPDF>=1.23.0  # fitz
+pdfplumber>=0.10.0
+
+# 数据处理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# API 调用
+requests>=2.31.0
+
+# 可选：如果使用百度/阿里云 OCR API
+# baidu-aip>=4.16.0
